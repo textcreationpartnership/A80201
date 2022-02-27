@@ -1,0 +1,620 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Coma berenices; or, The hairy comet; being a prognostick of malignant influences from the many blazing stars wandring in our horizon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80201</idno>
+            <idno type="STC">Wing C5433A</idno>
+            <idno type="STC">ESTC R174110</idno>
+            <idno type="EEBO-CITATION">47682865</idno>
+            <idno type="OCLC">ocm 47682865</idno>
+            <idno type="VID">172821</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172821)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2651:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Coma berenices; or, The hairy comet; being a prognostick of malignant influences from the many blazing stars wandring in our horizon.</title>
+               </titleStmt>
+               <extent>[6], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the Year 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, defaced, tightly bound, and with print show-through, with loss of text.</note>
+                  <note>"In the homily of the Church of England against excess of apparel. The proud and haughty stomacks of the daughters of England are so maintained with divers disguised sorts of costly apparel; that, as Tertullian an ancient father faith, there is no difference between an honest matron and a common strumpet."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Timothy, 1st, II, 9 --  Sermons.</term>
+               <term>Bible. --  N.T. --  Peter, 1st, III, 3 --  Sermons.</term>
+               <term>Costume --  England --  17th century --  Sermons.</term>
+               <term>Wigs --  England --  Sermons.</term>
+               <term>Clothing and dress --  Religious aspects --  Christianity.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172821:1"/>
+            <p>
+               <hi>COMA BERENICES;</hi> Or, The HAIRY COMET; Being A Prognoſtick OF Malignant Influences from the many bla<g ref="char:EOLhyphen"/>zing Stars wandring in our Horizon.</p>
+            <q>
+               <bibl>1 Tim. 2. 9.</bibl>
+               <hi>—Not with broidered hair.</hi>
+            </q>
+            <q>
+               <bibl>1 Pet 3. 3</bibl>
+               <hi>—Not of Plaiting the hair.</hi>
+            </q>
+            <q>
+               <bibl>In the Homily of the Church of <hi>England</hi> againſt Exceſs of Apparel.</bibl> The proud and haughty ſtomacks of the daugh<g ref="char:EOLhyphen"/>ters of <hi>England</hi> are ſo maintained with divers diſguiſed ſorts of coſtly apparel; <hi>That,</hi> as <hi>Tertullian</hi> an ancient Father ſaith, <hi>there is left no difference between an honeſt Matron and a common Strumpet.</hi>
+            </q>
+            <q>
+               <bibl>Jerom <hi>to</hi> Laeta.</bibl> 
+               <hi>Ne caput gemmis oneres, nec capillum irruffes &amp; aliquid de gehennae ignibus admiſceas.</hi>
+            </q>
+            <p>LONDON, Printed in the Year 1674.</p>
+         </div>
+         <div type="blank_flyleaves">
+            <pb facs="tcp:172821:2"/>
+            <pb facs="tcp:172821:2" rendition="simple:additions"/>
+            <pb facs="tcp:172821:3"/>
+            <pb facs="tcp:172821:3" rendition="simple:additions"/>
+            <p>
+               <add>Againſt Womens Gorgeous attire about the head, &amp;c.</add>
+            </p>
+            <p>
+               <add>For coma <hi>Berenices,</hi> see His dictionaries of ꝓper names.</add>
+            </p>
+            <pb facs="tcp:172821:4" rendition="simple:additions"/>
+            <pb facs="tcp:172821:4"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:172821:5"/>
+         </div>
+         <div type="satirical_poem">
+            <pb facs="tcp:172821:5"/>
+            <head>SATYRA in SATYROS.</head>
+            <l>WHo'll ſay ſhag'd <hi>Abſalom</hi> no ſons begat,</l>
+            <l>When every man almoſt looks like his brat,</l>
+            <l>Or <hi>Jezabel,</hi> no painted Daughters nurſt,</l>
+            <l>(For <hi>Jehu's</hi> dogs or ſword) by Heaven curſt.</l>
+            <l>When ſuch a breed of <hi>Baſhans</hi> bulls do roar,</l>
+            <l>That puſh at Virtue and Religion goar.</l>
+            <l>Of old in Temples, veild were modeſt faces,</l>
+            <l>But now for Mates they gaze with open traces:</l>
+            <l>The Goats of <hi>Kenſington</hi> yield ſilver hair,</l>
+            <l>And in rank curles their wanton eyes do glare.</l>
+            <l>No ſhame, ſince on them their wild Satyrs glance,</l>
+            <l>And cloven feet do round about them dance.</l>
+            <l>Hir'd <hi>Galen</hi> ſays, 'tis for their health to lop,</l>
+            <l>And ſends them to the Barber Surgeons ſhop,</l>
+            <l>Its true, their ſoft and watriſh brains they plead,</l>
+            <l>New ſcurveys then, and ſaltiſh humors dread:</l>
+            <l>Thus they traduce poor <hi>Galen,</hi> who to cure</l>
+            <l>Their <hi>French</hi> Conſumptions bids their heads im<g ref="char:EOLhyphen"/>mure</l>
+            <l>With ſpiced caps, and dangling borders charm</l>
+            <l>Foul ſtenches, and to keep their doublets warm:</l>
+            <pb facs="tcp:172821:6"/>
+            <l>What, go like no body? we're quite undon,</l>
+            <l>For then brave Hectors our cropt Amors ſhun.</l>
+            <l>O handſom faſhion taught in <hi>Phoebus</hi> ſchool, <note place="margin">a intonſus Apollo.</note>
+            </l>
+            <l>Where Frantick Priests beſtride the <hi>Delphian</hi> ſtooll.</l>
+            <l>Hence the Fanatick Omens of grim times,</l>
+            <l>VVhen hairy Comets blazon out our crimes:</l>
+            <l>Their buſhy rays with powdred guilt do ſhine,</l>
+            <l>But ſhall ere long hiſs in the <hi>Stygian</hi> brine.</l>
+            <l>Their ſerpent-towers ſtollen from <hi>Avern</hi> lakes,</l>
+            <l>
+               <hi>Tyrinthius</hi> ſtern ſhall laſh with fiery ſnakes,</l>
+            <l>Of all the foreſt, Hells black <hi>Nazarites,</hi>
+            </l>
+            <l>Doctors of <hi>Chaucers</hi> ſong, woodcocks and ſnites.</l>
+            <l>How juſt they look when their hair Hoods are laid,</l>
+            <l>And they to ſome unlawful bed are ſtrayd.</l>
+            <l>Such Shepherds ſhear themſelves, and vow to hang</l>
+            <l>Their Fleece in <hi>Venus</hi> Temple whence they ſprang.</l>
+            <l>Such <hi>Florence</hi> Prieſts along our ſtreets do wave,</l>
+            <l>In Per'wigs marching to confeſs ſom Knave,</l>
+            <l>Or <hi>Parthian</hi> Dames ſore prickt in conſcience now,</l>
+            <l>By horned bulls that graz'd their brazen brow:</l>
+            <l>Are theſe fit <hi>Jacobines</hi> for him to bleſs,</l>
+            <l>Who ſue to Heaven in rough <hi>Eſau's</hi> dreſs.</l>
+            <l>I fear their Clergy they will ſcarce obtain,</l>
+            <l>And <hi>miſerere mei</hi> chaunt in vain.</l>
+            <l>I leave theſe <hi>Balaams</hi> and their Veſtal Nuns,</l>
+            <l>To this good <hi>Pontif,</hi> who in <hi>Vizor</hi> runs,</l>
+            <l>To ſcourge their whoriſh Garbs within the Court</l>
+            <l>Of this ſhort Treatiſe, and to ſpoil their ſport,</l>
+            <pb facs="tcp:172821:6"/>
+            <l>That they may cook no more hair bak't or ſod,</l>
+            <l>Leſt he afreſh ſhould winde his ſmarting rod,</l>
+            <l>But learn to tend chaſte fires within their breaſt,</l>
+            <l>Till holy flames convey them to their reſt.</l>
+            <q>
+               <hi>—Difficile eſt Satyram non ſcribere.</hi>
+            </q>
+         </div>
+         <div type="manuscript_table_of_contents">
+            <pb facs="tcp:172821:7" rendition="simple:additions"/>
+            <p>
+               <add>
+                  <list>
+                     <item>Wigs
+<list>
+                           <item>equal in expence to a Tax or Subsidy — P. 1.</item>
+                           <item>fruits of the Tree of Pride — P. 4</item>
+                        </list>
+                     </item>
+                     <item>Prieſt's Wigs buzled &amp; artificial — P. 8</item>
+                     <item>Wigs. —
+<list>
+                           <item>worn
+<list>
+                                 <item>1 as a defence in time of danger — P. 10</item>
+                                 <item>2 as a covering for national defects P. 11
+<list>
+                                       <item>(not worn by Elijah) — d<hi rend="sup">o</hi>.</item>
+                                    </list>
+                                 </item>
+                                 <item>3 as ornaments — d<hi rend="sup">o</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Invented by Satan — P. 12</item>
+                           <item>the wearing of them
+<list>
+                                 <item>a Sin — P. 17</item>
+                                 <item>a reproach to Providence — P. 19</item>
+                                 <item>Proscribed
+<list>
+                                       <item>by the Heathens by the light of Nature — P. 23</item>
+                                       <item>by the ancient lights of the Church — P. 24
+<list>
+                                             <item>by TERTULLIAN. CLEMINS. IEROM — P. 25</item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Flags of Vanity — P. 25</item>
+                           <item>Works of darkneſs — P. 26</item>
+                           <item>worſe than baldneſs &amp; ſackcloth — P. 28</item>
+                        </list>
+                     </item>
+                  </list>
+               </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172821:7" rendition="simple:additions"/>
+            <head>A Prognoſtick of malignant Influences, &amp;c.</head>
+            <p>THere are great complaints of want and grievances, both in the City and King<g ref="char:EOLhyphen"/>dom; That Trading is dead, that Tax<g ref="char:EOLhyphen"/>es are heavy, and that the <hi>Dutch</hi> War hath half undon us. But who will believe our complaints, or at leaſt who will pity us, whilſt we have money good ſtore to beſtow upon ſuperflu<g ref="char:EOLhyphen"/>ous and queſtionable; if not unlawful vanities? The price of one of thoſe Periwigs which ſome men wear, would pay more than what they are rated at for a years tax or ſubſidy. 'Tis true in<g ref="char:EOLhyphen"/>deed, that Atheiſm, whoredom, and deſperate ſwearing, with ſuch like, are the great capital ſins under which the Kingdom groans, and for which all who have not baffled their conſciences, or are bereaved of their underſtandings, expect an heavy reckoning ere it be long. But we may alſo put into the black Inventory and Catalogue our abounding pride and luxury (which were accounted ſins by our forefathers, but are almoſt become our virtues) our vein of fantaſtical faſhi<g ref="char:EOLhyphen"/>ons and ſtrange apparel, for which the children of Nobles were ſevere<g ref="char:EOLhyphen"/>ly <note place="margin">
+                  <hi>Zeph.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 8.</note> threatned.</p>
+            <pb n="2" facs="tcp:172821:8"/>
+            <p>I know people generally ſay, they may conform to the garb of the times they live in, without de<g ref="char:EOLhyphen"/>ſerving the imputation of pride or vanity. And it were ſtrange, if they ſhould ſpeak otherwiſe. Pride is a ſin which moſt practiſe, but no body will own, till it be ſhaven, and its nails pared, as the Jews were di<g ref="char:EOLhyphen"/>rected <note place="margin">
+                  <hi>Deut</hi> 21. 12.</note> to deal with the captive woman before they took her to wife; but when it is ſwadled up in ſoft expreſſions, when it is fit<g ref="char:EOLhyphen"/>ted with the plauſible name of handſomneſs or de<g ref="char:EOLhyphen"/>cency, then the ſweet Babe is ſmiled upon, and dandled upon the knees of the greateſt Profeſ<g ref="char:EOLhyphen"/>ſors, without fear or remorſe. The beſt way for us to judge of perſons and things is by their fruits. If the effeminacy of the men of this generation in their hair and habits; if womens naked breaſts, ſpots, towers, curls, &amp;c. be not fruits growing upon the tree of pride, I wonder what pride is; Let us take heed, while we thus plead for our own, leſt we legitimate the vices of all former A<g ref="char:EOLhyphen"/>ges, wherein ſome invented divers and ſtrange fa<g ref="char:EOLhyphen"/>ſhions of curling their hair; others coloured it with unguents and powders; ſome put upon it the filings of gold to make it ſhine, as <hi>Verus</hi> the Emperor, ſome others <note place="margin">Iul. Capit. in Vero.</note> tied up the Treſſes of it with golden ribbands. And in the days of <hi>He<g ref="char:EOLhyphen"/>liogabulus,</hi> 
+               <note place="margin">Athen. Deip. Lamprid. in Heliogab.</note> there were certain men who bound up their hair in a caul,
+<pb n="3" facs="tcp:172821:8"/> after the manner of women, that they might curry favour with him by the imitation of his manners.</p>
+            <p>Pretences are never wanting, eſpecially to thoſe who live in eminent Cities, when their dealings and converſe are with Perſons of Quality, whom they think themſelves obliged to comply with in theſe matters for their own profit. But that is a curſed gain which is gotten by ſtretching the con<g ref="char:EOLhyphen"/>ſcience to a ſinful compliance, with the corrupt humors and inclinations of the men of this world. Yet if theſe men would ſpeak impartially, the plea<g ref="char:EOLhyphen"/>ſing of others is not the only or chief cauſ (if any cauſe at all) of the unjuſtifiable exceſs and vanity of their habit, but rather an affectation and deſire of being like the great ones of the earth, herein reſembling <hi>Aeſops</hi> frog, who fain would have ſwelled her ſelf to the dimenſions of an Oxe, but the poor Animal failed in the enterprize.</p>
+            <p>The truth is, Cities of great reſort and com<g ref="char:EOLhyphen"/>merce, and where Princes keep their royal Reſi<g ref="char:EOLhyphen"/>dence, as they grow wealthy, ſo they grow proud and wanton, not knowing what they may eat, or what they may drink, or wherewithal they may be clothed: when they are waxed fat like <hi>Jeſu<g ref="char:EOLhyphen"/>run,</hi> they fall a kicking, and nothing will tame them, till they are brought low by ſome terrible judgements. Pride like the Gout harbors chiefly amongſt rich people, and in great opulent Cities, as appeareth from <hi>Jer.</hi> 13 9. <hi>Thus ſaith the Lord,</hi>
+               <pb n="4" facs="tcp:172821:9"/> 
+               <hi>after this manner will I marr the Pride of</hi> Ju<g ref="char:EOLhyphen"/>dah, <hi>and the GREAT PRIDE of</hi> Jeruſalem. It is too viſible, that a great number of Citizens take not their meaſures from their Eſtates or Quality, when thoſe of mean Occupations vye it with great Perſonages in faſhionableneſs and Gal<g ref="char:EOLhyphen"/>lantry, as if all <hi>Londons</hi> Tradeſmen were Mer<g ref="char:EOLhyphen"/>chants, and their Merchants were Prin<g ref="char:EOLhyphen"/>ces. By the Ordination of God, as <note place="margin">
+                  <hi>Iſa.</hi> 23. 8.</note> there are diſtinctions of callings and degrees amongſt men, ſo there ought to be diſtin<g ref="char:EOLhyphen"/>ctions of habits. A grave and learned Preacher of that City <note place="margin">Dr. <hi>Sibbs Ly<g ref="char:EOLhyphen"/>dia's converſ. p.</hi> 17.</note> gave them a ſeaſonable <hi>Item</hi> many years ago, <hi>That over<g ref="char:EOLhyphen"/>much delicacy in attire was a fa<g ref="char:EOLhyphen"/>tal thing, that there were many in the City and in the Countrey given to overmuch nicety and ſum<g ref="char:EOLhyphen"/>ptuouſneſs in this kind, and that it was a fore<g ref="char:EOLhyphen"/>runner of ruine.</hi> But we have out paſſed the luxury of thoſe times. The Tree of Pride hath bloſſomed and born other manner of fruit, when thoſe whoſe education hath been in ſhops, can give as many pounds for a Periwig, as would almoſt make up a ſtock to ſet up a poor Apprentice, or relieve many a poor Member of Chriſt, which languiſheth under great preſſures and wants: I hope they are well provided with an Anſwer a<g ref="char:EOLhyphen"/>gainſt the day of Judgment, <hi>Luke</hi> 16. 2. <hi>When they ſhall give an account of their Stewardſhip,</hi>
+               <pb n="5" facs="tcp:172821:9"/> 
+               <hi>to him that judgeth righteouſly, and accepteth not the Perſons of men.</hi>
+            </p>
+            <p>I know it is pleaded that theſe things are <hi>in<g ref="char:EOLhyphen"/>different,</hi> and men think that their eſtates are their <hi>own.</hi> But the pretence of harmleſneſs and indif<g ref="char:EOLhyphen"/>ferency hath almoſt undon us all, and opened a gap to all manner of licentiouſneſs. If we liſt to follow odd ſcandalous faſhions, and are taken with the capritious inventions of unſober fantaſti<g ref="char:EOLhyphen"/>cal perſons; we huſh our conſciences, and ſilence our reprovers, with the powerful name of indif<g ref="char:EOLhyphen"/>ferency. But admit they were ſo, is there no circumſpection to be uſed in the Practice of in<g ref="char:EOLhyphen"/>different things? It is an obſervation grounded upon long experience, That Religion is always going down the winde, when its Profeſſors and Votaries allow to themſelves a boundleſs and un<g ref="char:EOLhyphen"/>warrantable liberty in things which are common<g ref="char:EOLhyphen"/>ly called indifferent. A Malady which hath its beginning in the extreme or outward parts of the body, oftentimes at laſt invades the vitals, and proveth mortal. And though mens Propriety in their eſtates ought not to be denied, yet it ſhould be remembred, that they muſt and ſhall be accountable, God always reſerving the ſupreme Propriety and Dominion to himſelf, and there<g ref="char:EOLhyphen"/>fore he calleth it, <hi>My Flax and my Wooll,</hi> Hoſ 2. 9.</p>
+            <pb n="6" facs="tcp:172821:10"/>
+            <p>Not a few bolſter up themſelves in their confor<g ref="char:EOLhyphen"/>mity to the vain faſhions and diſguiſes of the times, becauſe they do no more then what is com<g ref="char:EOLhyphen"/>mon. But thinking thus to alleviate the buſineſs, they make it well the worſe. For corruptions, the more common they are, the more they pro<g ref="char:EOLhyphen"/>voke God, and the more fatal they are to men. When all fleſh had corrupted their way, we know what became of the old world, <hi>Gen.</hi> 6. 12. They ſinned together, and they went down quick toge<g ref="char:EOLhyphen"/>ther into that univerſal grave of waters.</p>
+            <p>But that which giveth a greater countenance and reputation unto the exceſs which we are ſpeaking of in habits and hair, is, That eminent <hi>Profeſſors</hi> have taken them up, and licenſed them as it were, at leaſt given them protection under the venerable names of Profeſſion and godlineſs. But the more is their ſhame in the judgement of the moſt diſcerning unbiaſſed perſons, who can<g ref="char:EOLhyphen"/>not but wonder at the unbridled practices of di<g ref="char:EOLhyphen"/>vers of our modern Profeſſors, and lament to ſee how much Religion is abuſed in the houſe of her friends. I will not deny, but that divers of them are conſciencious godly perſons; but I take this for none of their godlineſs, or the proper fruits of it.</p>
+            <p>There is a ſtrange incongruity and unevenneſs in the ways of ſome people, which I could never yet reconcile, or well underſtand. They will not come at Common Prayer, becauſe they ſay
+<pb n="7" facs="tcp:172821:10"/> ſome of it was taken out of the Maſs-book: they deteſt a Surplice, becauſe it was worn by the <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> Prieſts in their idolatrous worſhip: but as for vain, ridiculous, immodeſt faſhions and at<g ref="char:EOLhyphen"/>tires, they never boggle at them. A tender con<g ref="char:EOLhyphen"/>ſcience indeed will make men afraid of one ſin as well as another, or elſe it is not tenderneſs of con<g ref="char:EOLhyphen"/>ſcience but <hi>hypocriſie,</hi> as the Apoſtle ſheweth, <hi>Rom.</hi> 2. 22. and an evidence of partiality in Gods Law. That mans or womans conſcience is of a ſtrange temperament, that will not give them leave to conform to the <hi>Church,</hi> but never trou<g ref="char:EOLhyphen"/>bles them for conforming to the <hi>World.</hi> It is a<g ref="char:EOLhyphen"/>liene from my preſent undertaking to declare for or againſt Conformity: (I would offend none,) but I do not like it, when there are hills and dales in mens conſciences, when at ſome things they ſtrain and other things as bad they ſwallow down without the leaſt appearance of reluctancy. They which upon pretence of ſcrupuloſity refrain from the publick eſtabliſhed Worſhip, had need be ve<g ref="char:EOLhyphen"/>ry careful how to indulge themſelves in any ways of ſenſuality, leſt that paſſage of the Apoſtle be laid in their diſh; but thoſe which are otherwiſe minded, <hi>Theſe be they who ſeparate themſelves, ſenſual, having not the Spirit,</hi> Jude 19.</p>
+            <p>There is one thing more which gives no ſmall encouragement to the vain fantaſtical garbs of theſe times, (which are one of the dotages of the world now waxing old) that the hand of the
+<pb n="8" facs="tcp:172821:11" rendition="simple:additions"/> Prieſts, and ſpiritual Guides are chief in this Treſpaſs. I ſpeak not this of all, for there are many of them whom the contagion of the times hath not touched, who ſtill retain that old Apo<g ref="char:EOLhyphen"/>ſtolical gravity, which beſt becomes their place. In the mean time others of their brethren take to themſelves a greater freedom; and others no doubt take example by them, (which for the re<g ref="char:EOLhyphen"/>verence I have to them I ſhould never publiſh, were it not expoſed daily to the view of all men) what may not others do, when perſons venerable for their Office, eminent for their Gifts, and otherwiſe of pious exemplary lives, ſtanding in the room of God, and acting as Meſſengers of the Lord of Hoſts, ſhall pray and preach in pub<g ref="char:EOLhyphen"/>like Aſſemblies, and perform all other duties of their ſacred Function, with long buzled Periwigs, or Borders of Artificial hair, hanging over their bands and ſhoulders? <hi>From the beginning it was not ſo.</hi> I dare undertake for them, <hi>Paul</hi> or <hi>Timothy, Ignatius</hi> or <hi>Polycarpus, Bradford</hi> or <hi>Hooper,</hi> would have thought themſelves as ill harneſſed for their work in this Attire, as <hi>David</hi> did when he put on <hi>Sauls</hi> Armor. There is a greater degree of gravity, compo<g ref="char:EOLhyphen"/>ſedneſs, mortification and ſobriety <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 1 <hi>Tim.</hi> 3. 4.</note> required of them than of others. It is a great diſorder when the Shepherds infect the flock. The Lord was high<g ref="char:EOLhyphen"/>ly diſpleaſed, <hi>Jer.</hi> 23 15. when from the Pro<g ref="char:EOLhyphen"/>phets
+<pb n="9" facs="tcp:172821:11"/> of <hi>Jeruſalem,</hi> the contagion of evil ex<g ref="char:EOLhyphen"/>ample ſent forth into all the Land.</p>
+            <p>Neither may others juſtifie their undue Practi<g ref="char:EOLhyphen"/>ces in theſe things, from the example of their Guides; for they are men ſubject to like paſſions with others, too often ſurprized with the ſame temptations of pride, affectation and vanity; and when they give way, they expoſe their Perſons and Office to contempt, to the great detriment and hindrance of their labours.</p>
+            <p>There is a general Complaint that little good is done by preaching in theſe days: and I fear that Miniſters in part may thank themſelves for it, whileſt they immerſe themſelves in the manners and faſhions of this world; whilſt people in their habits and converſe can ſee ſo little difference be<g ref="char:EOLhyphen"/>tween their Guides, and one of the <hi>vain fellows,</hi> 2 <hi>Sam</hi> 6. 20 They deſpiſe them in their hearts. Thoſe teachers which will keep up the reputation of their holy calling, and be ſucceſsful in win<g ref="char:EOLhyphen"/>ning ſouls, muſt keep at a remote diſtance from the extravagancies and levity of the Times, as ap<g ref="char:EOLhyphen"/>peareth from the example of <hi>John</hi> the Baptiſt, the auſterity of whoſe life, and the very plainneſs of whoſe habit procured veneration to his Perſon, and prepared the why before him, as he did before his Lord and Maſter. One part of the Miniſters work is with zeal and authority, to rebuke the moſt prevailing corruptions; out their mouthes are ſtopped, and the edge of their reproofs is
+<pb n="10" facs="tcp:172821:12" rendition="simple:additions"/> blunted, when they are involved under the ſame guilt which they arraign in others. Reprovers had need be innocent (leſt their weapons be beaten back upon their own heads.) The Snuffers of the Tabernacle were to be of pure beaten gold. <hi>When the Eccleſiaſticks of</hi> France <hi>inveighed againſt the Pomp and Luxury of the</hi> French <hi>Courtiers, the then King replied upon them with great diſdain and indignation,</hi> 
+               <q rend="inline">
+                  <hi>Let the Clergy-men firſt of all reform themſelves, there are none ſo fantaſtical and vain in their Habits as they.</hi>
+               </q> The Chancel<g ref="char:EOLhyphen"/>lor of <hi>Paris,</hi> who was an ear-witneſs, is the Author of this Relation. <note place="margin">Gerſon.</note>.</p>
+            <p>But leaſt I may ſeem hitherto to have produced words rather then Arguments, I ſhall lay down my Reaſons againſt the cuſtom of wearing Artificial counterfeit hair by either ſex; hoping that perſons of modeſty, candor and con<g ref="char:EOLhyphen"/>ſcience, (if at leaſt they ſhall prove cogent and weighty) will render up themſelves Truths priſo<g ref="char:EOLhyphen"/>ners, or rather its willing and thankful Proſelites. And herein I ſhall give the precedency to men, who otherwiſe may juſtly challenge it. Upon a little ſearch into this matter I finde that men have had recourſe to this Practice, chiefly in three caſes.</p>
+            <p n="1">1. Some have uſed it, the better to conceal themſelves in time of danger. <hi>Thus</hi> Hannibal <hi>fearing to be killed in his Winter-quarters by certain</hi> Gauls, <hi>cauſed</hi> 
+               <note place="margin">
+                  <hi>Polyb. Hist. l.</hi> 3.</note>
+               <pb n="11" facs="tcp:172821:12" rendition="simple:additions"/> 
+               <hi>hair of different Ages artificially compoſed to be prepared for him.</hi>
+            </p>
+            <p n="2">2. Others have uſed Periwigs, or Borders of counterfeit hair, to ſupply the defect of their na<g ref="char:EOLhyphen"/>tural covering, fallen from them by reaſon of Age or ſickneſs; uſing them for warmth, and to hide the ſhame and uncomc<g ref="char:EOLhyphen"/>lineſs <note place="margin">Cauſab. in Sueton.</note> of baldneſs, which was ever accounted a deformity, as appear<g ref="char:EOLhyphen"/>eth from the childrens mocking the Prophet up<g ref="char:EOLhyphen"/>on the ſight of his bald head, 2 <hi>Kings</hi> 2. 23. His Maſter <hi>Elijah</hi> had no Periwig belike to leave him, when he bequeathed to him his Mantle.</p>
+            <p n="3">3. A third ſort there is whom God and Na<g ref="char:EOLhyphen"/>ture hath ſupplied with hair ſufficient for Defence and Ornament; but they forſooth out of a hu<g ref="char:EOLhyphen"/>mor muſt cut it off, and adorn themſelves with borrowed Plumes, that they may be in the Mode of the Times, or pleaſe heir own diſeaſed fancies, or gratifie the eyes of wanton and witleſs behold<g ref="char:EOLhyphen"/>ers. And yet when they have done their utmoſt, a Lion or a Horſe have a more ſtately Main. Theſe I take to be the great<g ref="char:EOLhyphen"/>eſt <note place="margin">Seneca.</note> number: And the Reaſons why I judge the Practice of ſuch, (eſpecially if they be noted for a Profeſſion of Godlineſs) ſcandalous and unlawful, I ſhall range in this following Order.</p>
+            <pb n="12" facs="tcp:172821:13" rendition="simple:additions"/>
+            <p>1. Becauſe the cuſtom of mens wearing Peri<g ref="char:EOLhyphen"/>wigs or counterfeit hair, was brought up by the worſt of men, and uſed by them for the vileſt purpoſes that can be well imagined Men did I ſay? nay, an holy Biſhop and Martyr of the Primitive Church <note place="margin">Cypr. de Hab. Virg.</note> faith, That ſuch like Practices were the inventions of the Apoſtate-An<g ref="char:EOLhyphen"/>gels. Certain it is, God was not the Author of this faſhion; in which Perſuaſion I am confirm<g ref="char:EOLhyphen"/>ed from the Scriptures, 1 <hi>John</hi> 2. 16. <hi>For all that is in the world, the luſt of the fleſh, the luſt of the eyes, and the Pride of life, is not of the Father, but of the world.</hi> And if this be not a branch of the Pride of life, I wonder what is.</p>
+            <p>As far as I can learn, the world is obliged to the <hi>Medes</hi> for this invention of wearing ſuppoſititious, counterfeit <note place="margin">
+                  <hi>Xenophon de</hi> Cyri <hi>vita.</hi> l 1.</note> hair; a people given up to the luſts of uncleanneſs and luxury. And at the ſame time they uſed painting of their faces, and colouring of their eye-brows, all chips of the ſame block, unmanly pride and va<g ref="char:EOLhyphen"/>nity. I would there were a Law enacted to make them a Paſs, and ſend them back again to the place of their Birth, as we deal with Vagrants and Beggars; ſuch Modes and Faſhions would better ſuit with Pagans than with Chriſtians. The Prophet tells us, <hi>Zech.</hi> 5. 11. <hi>That wickedneſs is upon its own proper baſe, when removed out of</hi>
+               <pb n="13" facs="tcp:172821:13"/> Judah, <hi>and hath a houſe built for it in the Land of</hi> Shinar.</p>
+            <p>The next time I reade of this faſhion is amongſt the <hi>Romanes</hi> and that not until their manners were degenerated, and they grown to a prodigi<g ref="char:EOLhyphen"/>ous exceſs of Vice and Luxury. <hi>Paul</hi> ſpeaking of their debauched manners at that very time when this uncouth habit began to be in requeſt among them, ſaith, <hi>That they were Inventors of evil things,</hi> Ro. 1 30. &amp; <hi>I</hi> have ſomtimes thought, that this was one of the evil things intended by the A<g ref="char:EOLhyphen"/>poſtle. <hi>I</hi> do not finde that it was ever of vulgar uſe amongſt the <hi>Romanes;</hi> and of their Empe<g ref="char:EOLhyphen"/>rors, <hi>I</hi> can finde in their Records mention of but four, which thus diſguiſed their Heads, <hi>viz. Caligula</hi> a bloody <note place="margin">Sueton. in Ca<g ref="char:EOLhyphen"/>lig. Ner. &amp; O<g ref="char:EOLhyphen"/>thone.</note> Monſter, <hi>Nero</hi> the worſt man that ever was born of a woman, <hi>Otho</hi> a lover of ſtrange fleſh, and <hi>Antoninus Baſſianus,</hi> an <note place="margin">
+                  <hi>Herodiani</hi> l. 4.</note> inceſtuous perſon and murtherer.</p>
+            <p>If any be inquiſitive, to what purpoſe they aſ<g ref="char:EOLhyphen"/>ſumed ſuch a Garb, contrary to the gravity of the <hi>Romane</hi> people? I anſwer, they did it to diſguiſe themſelves when they went about their works of darkneſs: When <hi>Caligula</hi> went abroad by night to the Taverns <note place="margin">Suet. in Calig.</note> and Stews, he abſconded himſelf in a long garment and a Periwig, <hi>Dion Caſſius</hi> and <hi>Tacitus</hi> relate the ſame thing of <hi>Nero.</hi>
+            </p>
+            <pb n="14" facs="tcp:172821:14" rendition="simple:additions"/>
+            <p>Now this alone, as one would think, were e<g ref="char:EOLunhyphen"/>nough to make ſober perſons diſguſted againſt this habit, <hi>That it was initiated in Stews, and fullied upon the Heads of ſuch Monsters.</hi> We are at a ſad paſs, when the vanity and vitious Pra<g ref="char:EOLhyphen"/>ctices of the worſt of Heathens, are naturalized and in daily uſe amongſt Chriſtians; Nay, when their botches are become no ſmall part of our Ornament and Bravery. It was laid to the charge of others upon the like occaſion, <hi>That they were mingled amongſt the Heathen, and lear<g ref="char:EOLhyphen"/>ned their works.</hi>
+            </p>
+            <p>2. Another reaſon why I cannot approve our modern cuſtom of mens wearing of Artificial hair, extended to ſuch a length, prepared with ſo much Art and curioſity, is becauſe it is repug<g ref="char:EOLhyphen"/>nant to that ſober, humble, mortified temper, which is required of Chriſtians: Methinks men of ſobriety, wiſdom, conſcience and gravity ſhould diſdain to wear thoſe fooleries, where<g ref="char:EOLhyphen"/>with Pagans were wont to deck the Statues of their Idols, as <hi>Dempſter, Baxhor<g ref="char:EOLhyphen"/>nius,</hi> and others relate; and ſhould <note place="margin">
+                  <hi>Baxhorn. in Sueton.</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>&amp;c. Plato</hi>
+               </note> be aſhamed to behold themſelves in the ſame dreſs with <hi>Mercury</hi> and <hi>Priapus.</hi> The Head is the nobleſt and moſt honourable part of Mans body, having a Deſpotical power over the Mem<g ref="char:EOLhyphen"/>bers; there is the Tower and Arſenal of Reaſon, the moſt noble Faculty of Invention, the wonder<g ref="char:EOLhyphen"/>ful
+<pb n="15" facs="tcp:172821:14" rendition="simple:additions"/> Repoſitory of Memory, the two Luminaries of the eyes, ordained to look heavenward, and from which there is the effulgency of Majeſty and comelineſs, which things ſhould be a ſtrong inducement to men, not to diſhonour their Heads by ridiculous unſeemly coverings. Beſides the remembrance of thorns worn by our Redeemer for our ſake, ſhould keep us for ever from crowning our heads with vanity and lux<g ref="char:EOLhyphen"/>ury.</p>
+            <p>Chriſtians are the diſciples and followers of a crucified Lord, who affected none of the worlds pomp and gaieties; they are or ſhould be cruci<g ref="char:EOLhyphen"/>fied to the world, which though it be an inviſible work, and tranſacted in the inner chambers of the ſoul, yet there muſt be outward expreſſions of it in our converſations, and our very habits. In all things they ſhould be ſingular Patterns of Moderation. But now it is hard to diſtinguiſh ſom of our greateſt Profeſſors from the moſt temporizing Gallants, who make their backs their God, as Gluttons do their bellies, unleſs they ſhould wear a Ticket pinned upon their back, or we had ſome <hi>Nomen-clator</hi> pointed out to us.</p>
+            <p>If any object, what you condemn, others both learned and pious account very ſober; I ſhould demand of them, What others do you mean?</p>
+            <pb n="16" facs="tcp:172821:15" rendition="simple:additions"/>
+            <p>They muſt be ſuch as have forſaken the Duct Sentiments and Teachings of Nature. For <hi>Paul</hi> ſaith, 1 <hi>Cor.</hi> 11. 14. <hi>Doth not even Nature it ſelf teach you, that if a man have long hair, it is a ſhame unto him.</hi> And what longer hair can he mean, than that the diviſions of which cover the breaſt and ſhoulders, like unto the wings of ſpread-Eagles? The manners and diſcipline of our Nation in the days of our fore-fathers would not have born this; When one of the Lords of the Council, meeting a <note place="margin">
+                  <hi>Fox vol.</hi> 2 <hi>p.</hi> 512.</note> ſerving-man in the ſtreets of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> with his hair hanging down up<g ref="char:EOLhyphen"/>on his ſhoulders, notwithſtanding the pretence of his Vow, committed him priſoner to the <hi>Mar<g ref="char:EOLhyphen"/>ſhalſea,</hi> for no other reaſon but becauſe he thus diſguiſed himſelf, and went not after the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> faſhion.</p>
+            <p>But if we take <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for <hi>comis ſuperbire,</hi> as it is uſed in <hi>Ariſtophanes,</hi> for mens priding them<g ref="char:EOLhyphen"/>ſelves in hair; what more pregnant evidence was ever given, then in wearing theſe coſtly elabo<g ref="char:EOLhyphen"/>rate trifles, the matter of which muſt be fetched far, (it may happen from <hi>Norway, Germany,</hi> or the <hi>wilde Iriſh)</hi> and then it muſt be prepared by the Barber or tire-woman, with great expence of Art and precious time: it muſt be boiled, baked ſtitched and powdred, before it be ready for uſe: <hi>Tantae molis erat. &amp;c. Salmaſius</hi> himſelf (of a laxer judgment in theſe <note place="margin">Dial. de Coma.</note>
+               <pb n="17" facs="tcp:172821:15" rendition="simple:additions"/> things then moſt) ſaith, that criſping of the hair and the uſe of exotick powders, is an indecency againſt the Law of God and Nature: and that if men content not themſelves with that plain ſimple hair which Nature hath given them, but muſt have it of another colour, and artificially formed or ſet, <hi>(eam rem vitio, &amp; peccato non carere pror<g ref="char:EOLhyphen"/>ſus ſtatuendum eſt)</hi> it is doubtleſs a ſin.</p>
+            <p>I know not whom ſuch affection doth pleaſe, unleſs it be the <hi>Devil;</hi> and upon this occaſion I ſhall recite a ſtory. A cer<g ref="char:EOLhyphen"/>tain <note place="margin">
+                  <hi>Coel. Rho<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> l.</hi> 8. <hi>c.</hi> 10.</note> 
+               <hi>Italian</hi> Maid was poſſeſſed by the Devil, and being asked his name, he anſwered, <hi>Cincinnatulus,</hi> i. e. one delicately curl<g ref="char:EOLhyphen"/>ed. <hi>Haec ille appellatione geſtiens inclamanti ſubinde res: pondebat,</hi> ſaith my Author. If I may be allowed to make a gloſs upon this Relati<g ref="char:EOLhyphen"/>on, (it ſhould be this) <hi>That the Devil is wonder<g ref="char:EOLhyphen"/>fully pleaſed with that Vanity which the Curioſo's of our Times are ſo ſtudious of, ſeeing he adopted their name, and ſhewed himſelf, willing to be free of their company.</hi>
+            </p>
+            <p>The Primitive Chriſtians had a great abhor<g ref="char:EOLhyphen"/>rence of our modern luxury. When one <hi>Torqua<g ref="char:EOLhyphen"/>tus</hi> frequented their religious meetings at <hi>Rome,</hi> that he might inform againſt them, he was pre<g ref="char:EOLhyphen"/>ſently ſuſpected to be a falſe brother, becauſe he ſpruced up himſelf ſo induſtriouſly, and uſed borders of <hi>Artificial hair;</hi> inſomuch that one of them ſpake thus of him before <hi>Fabianus</hi> the
+<pb n="18" facs="tcp:172821:16" rendition="simple:additions"/> 
+               <hi>Praetor, Thinkeſt thou this man to be one of us? Jeſus Chriſt never</hi> 
+               <note place="margin">
+                  <hi>Baron. An<g ref="char:EOLhyphen"/>nal. Tom.</hi> 2. <hi>p</hi> 276.</note> 
+               <hi>thought ſuch</hi> Peſts <hi>worthy to be any of his ſervants.</hi>
+            </p>
+            <p>But why do I ſpeak of Chriſti<g ref="char:EOLhyphen"/>ans, when theſe things are decried and had in de<g ref="char:EOLhyphen"/>riſion by the Philoſophers, Hiſtorians and Poets of the Heathens! whoever readeth them, ſhall finde <hi>Babylons</hi> children reading Lectures of ſo<g ref="char:EOLhyphen"/>briety to the ſons and daughters of <hi>Zion.</hi>
+            </p>
+            <p>One thing is worthy of our remark, that in old time they which were curious about their hair, were ſuſpected to be of vitious inclinations, as appeareth from that paſſage of the <hi>Come<g ref="char:EOLhyphen"/>dian.</hi>
+            </p>
+            <p>
+               <hi>Quis tibi iſthuc credat Cynaede Cincinnatule—</hi>I forbear to <note place="margin">
+                  <hi>Plaut. Aſin. Act.</hi> 3. <hi>Scen.</hi> 3</note> 
+               <hi>Engliſh</hi> it.</p>
+            <p>I have often wondred, that ſo many ancient men comply with this aiery faſhion. Methinks multitude of years ſhould teach them more wiſdom and gravity. For hereby in a great degree they forfeit that honour which is due to the hoary head, <hi>Lev.</hi> 19. 32. and ſeem to be aſhamed of that which is their glory, if they be found in the way of righteouſneſs, <hi>Prov.</hi> 16. 31. A flaunting youthful buſh of hair doth ill becom them (as if it were yet but early ſpring with them,) when their faces are wrinkled, their joints tremble, and they have <hi>December</hi> in their bones.
+<pb n="19" facs="tcp:172821:16"/> It was a witty paſſage of <hi>Hadrian</hi> the Emperor, when he had de<g ref="char:EOLhyphen"/>nied <note place="margin">Spartian. in Hadr.</note> a certain requeſt to an old grey-headed perſon; The ſame man addreſſing himſelf to him again in hair of another colour, ſaith he, <hi>I have already denied this thing to your Father.</hi>
+            </p>
+            <p>It would alſo well becom thoſe which are in Places of Government, if they would preſerve the honour due to their places, by carefully ab<g ref="char:EOLhyphen"/>ſteining from all things which have a ſhew of le<g ref="char:EOLhyphen"/>vity. They are terreſtrial Gods, and nothing but what is Majeſtical becomes them. If they would adorn their Heads, they need not conſult the Barber or Tire-woman, the Scriptures having directed them to a more ſuitable and noble Or<g ref="char:EOLhyphen"/>nament: <hi>I put on Righteouſneſs and it cloathed me: my Judgement was as a Robe, and a Dia<g ref="char:EOLhyphen"/>dem,</hi> Job. 29. 14.</p>
+            <p>3. This novel faſhion of wearing ſtrange Heads (as it is now uſed) ſeems unjuſtifiable, be<g ref="char:EOLhyphen"/>cauſe it carries in it a diſlike of Gods Workman<g ref="char:EOLhyphen"/>ſhip, and a kinde of Practical reproach to the uni<g ref="char:EOLhyphen"/>verſal Maker. As if their inward thoughts were, that if they had been adviſed with about the Cre<g ref="char:EOLhyphen"/>ation, ſome things at leaſt might have been bet<g ref="char:EOLhyphen"/>ter ordered.</p>
+            <p>God in whoſe Book all our members were writ<g ref="char:EOLhyphen"/>ten, and <hi>Pſ.</hi> 139. 16. by whom the very hairs of
+<pb n="20" facs="tcp:172821:17"/> our heads are numbred, (beſides other innume<g ref="char:EOLunhyphen"/>rable inſtances of his Providence and bounty to mankind) hath furniſhed us with hair growing from our ſelves, both as a natural Ornament, and to be a defence againſt overmuch heat, of hurtful impreſſions, from both which, the brain, being a moiſt ſubſtance, is very capable. As man hath a more capacious brain then the reſt of the crea<g ref="char:EOLhyphen"/>tures, ſo he is obſerved to be <hi>Animal maxime piloſum.</hi> Unto this noble <note place="margin">Coel. Rbo<g ref="char:EOLhyphen"/>dig.</note> and uſeful excrement there is a dai<g ref="char:EOLhyphen"/>ly ſupply of nouriſhment conveyed through the porous parts of it, according to the different temperament of mens bodies: it is of different colours and formes. <hi>Black</hi> hair is ſaid to be the reſult of a hot conſtitution, by reaſon of a blackiſh vapour ariſing from aduſt humors, which impreſſeth the ſame quality upon the hair. When it is of a pale <hi>whitiſh</hi> colour, it is an indi<g ref="char:EOLhyphen"/>cation that the temper is inclined to cold. When it is <hi>yellowiſh</hi> or <hi>red,</hi> we are taught out of <hi>Avi<g ref="char:EOLhyphen"/>cenna,</hi> that it ſheweth a more exact conſtitution, equally ballanced and adjuſted between both ex<g ref="char:EOLhyphen"/>treams. They which have dry brains, or live in very hot countreys, have uſually curled hair, as it is with the inhabitants of <hi>Ethiopia,</hi> where alſo the Trees grow knotty and full of curls. All this is ſpoken to ſhew, <note place="margin">Salmaſ. de Dial. de Coma.</note> that the very colour and forme of mens hair is the Work of God,
+<pb n="21" facs="tcp:172821:17"/> whoſe wiſdom is not to be deſpiſed in the leaſt of his works. But many amongſt us make them<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lves wiſer then God. That hair which God and Nature hath provided for them doth not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leaſe, and therefore they will undertake to a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end Gods workmanſhip, and transform them<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves into another ſhape; ſomewhat like thoſe which hanker after ſtollen waters, when they might drink freely out of their own Ciſterns, <hi>Prov.</hi> 9. 17. <hi>But ſhall the thing formed ſay to him that formed it, why haſt thou made me thus?</hi> Rom. 9. 20. They imagine hereby that they conſult for their beauty, but things that are moſt natural are moſt comely; and therefore the na<g ref="char:EOLhyphen"/>tive colours of the Lilly or Tulip, <hi>Matth</hi> 6. 29. are preferred before all the acquired Artificial <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ravery of <hi>Solomon.</hi> God is an enemy to inno<g ref="char:EOLhyphen"/>vations in Nature, as well as in Religion and Worſhip. He ſaid of his own work, <hi>that they were all very good, Gen.</hi> 1. 31. but he never ſet his ſeal of Approbation upon mens petulant and fooliſh inventions. That which is as God made as it is Gods; but that which is new modelled and changed, it is <note place="margin">Cypr. de Hab. Virg.</note> the devils work We may fear, that God will ſend ſtrange pu<g ref="char:EOLhyphen"/>niſhments for our ſtrange Attires: Not many years ago, there was in <hi>Poland,</hi> and ſome parts of <hi>Germany,</hi> a <note place="margin">Boltons four laſt things.</note> Diſeaſe called the <hi>Plica,</hi> which
+<pb n="22" facs="tcp:172821:18" rendition="simple:additions"/> which cauſed mens hair upon a ſudden to curl twiſt into the form of ſnakes or ſerpents; imm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>diately after it bred vermine, ſending forth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> noiſom ſavour, and being pricked with a Needl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it yielded bloody drops. No Age had ev<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> greater reaſon to exp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct ſome ſharp and ſham<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ful rebuke, than this Age of unexampled luxur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and vanity.</p>
+            <p>4 This Epidemical faſhion or diſeaſe of wear<g ref="char:EOLunhyphen"/>ing Artificial hair, involves men in the guilt of o<g ref="char:EOLunhyphen"/>thers ſins, and that divers ways, if I be not great<g ref="char:EOLunhyphen"/>ly miſtaken.</p>
+            <p>Women-Factors are ſent abroad through a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Kingdom, to bring up Heads of Hair, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that at luſty rates, as 'tis reported, ('tis well ſome of their Head be worth ſo much as is give<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for their hairy excrement) A more ſhameful em<g ref="char:EOLunhyphen"/>ployment then that of the children of <hi>Iſrael Exod.</hi> 5. 12. when <hi>they were ſcattered throughou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all the Land of</hi> Egypt <hi>to gather ſtubble;</hi> for tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was only their affliction, but I cannot excuſe thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from ſin.</p>
+            <p>Divers of the Female ſex, (eſpecially the poor<g ref="char:EOLunhyphen"/>er ſort of Countrey-Maidens and children, barte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away that which the Apoſtle calls their glory, contrary to the light <note place="margin">1 <hi>Cor</hi> 11 15. <hi>Calv. in loc.</hi>
+               </note> of Nature, and the Cuſtom of Na<g ref="char:EOLunhyphen"/>tions. But if a woman have lon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hair, it is a glory to her, for her hair is given her for a covering. Theſe poor ſheep in the Coun<g ref="char:EOLunhyphen"/>trey
+<pb n="23" facs="tcp:172821:18" rendition="simple:additions"/> are miſerably ſhorn and polled, to maintain the ignoble Traffick and Pride of the City. Nay, Mothers unnaturally denude their own children of Natures covering for filthy lucres ſake.</p>
+            <p>In every ſtreet and corner almoſt of the City, are expoſed to ſail new Heads, Artificially com<g ref="char:EOLhyphen"/>poſed and dreſſed up, ſo that it may be ſaid of <hi>London</hi> as of <hi>Rome</hi> in times paſt, that there are to be ſeen there (amongſt other ſtrange ſights,) <note place="margin">Rhod. out of Columella.</note>
+            </p>
+            <q>Capitum, &amp; Capillorum Concinna<g ref="char:EOLhyphen"/>tores.</q>
+            <p>
+               <hi>Obj.</hi> Now if it be objected that it is the liveli<g ref="char:EOLhyphen"/>hood of hundreds of Families. I anſwer, this will not ſerve the turn. Thoſe women which weaved hangings for the idolatrous Groves, 2 <hi>Kings</hi> 23. 7. might have made this Plea; and they which made ſilver ſhrines for <hi>Diana, Acts</hi> 19. 25. actually did ſo. <hi>Sirs,</hi> ſaith <hi>Demetrius, ye know that by this craft we have our wealth.</hi>
+            </p>
+            <p>It is not enough that we are buſie in ſome cal<g ref="char:EOLhyphen"/>ling, but our calling muſt be good and lawful. <hi>Let him labour,</hi> ſaith <hi>Paul, working with his hands the thing which is good,</hi> Eph. 4. 28. The very Hea<g ref="char:EOLhyphen"/>thens, by the light of Nature, have condemned, as fit to be exterminated out of the Com<g ref="char:EOLhyphen"/>monwealth, Arts which tend only to the <note place="margin">
+                  <hi>Tull. Of fic. l.</hi> 1. <hi>p.</hi> 61.</note> upholding of pleaſure and luxury, and a<g ref="char:EOLhyphen"/>mongſt them they reckon ſelling of Per<g ref="char:EOLhyphen"/>fumes, Dancing, &amp;c. And doubtleſs ſel<g ref="char:EOLhyphen"/>ling of Periwigs had bin in the Liſt, if it had not bin born out of due time.</p>
+            <pb n="24" facs="tcp:172821:19" rendition="simple:additions"/>
+            <p>Now if they which are employed in buying up hair go upon a ſleevleſs errand, if thoſe Emiſ<g ref="char:EOLhyphen"/>ſaries can give no good account of their Time and Travels: They which are a means of ſet<g ref="char:EOLhyphen"/>ting them on work muſt expect to pay part of the reckoning with them, having made themſelves Partakers of others ſins. 1 <hi>Tim.</hi> 5. 22.</p>
+            <p>If it be a ſhameful thing for a woman to be ſhorn, as the Apoſtle teacheth, 1 <hi>Cor.</hi> 11. 6. If God will one day reckon with them for their unnatural and curſed cutting off their hair, how can they go unpuniſhed who tempt them to this indecency, and afterwards adorn themſelves with the ill-gotten ſpoils?</p>
+            <p>If Tire-womens ſhops (which are of late ſo greatly multiplied) ſhould prove ſhops of va<g ref="char:EOLhyphen"/>nity, and Nurſes to the pride and luxury of the Kingdom; how can they waſh their hands in in<g ref="char:EOLhyphen"/>nocency, who have been the occaſion of ſetting up, and upholding that unneceſſary and ignoble Trade.</p>
+            <p>It ought to be of great weight with perſons fearing God, that the moſt ancient lights of the Church both ancient and modern, have condemn<g ref="char:EOLhyphen"/>ed this cuſtom of wearing Artificial hair both in men and women, and have expreſſed great indig<g ref="char:EOLhyphen"/>nation againſt it, dipping their Pens in Gall and Vinegar, while they are writing againſt it. He that ſhall compare their judgement and doctrine with our Practice, will evidently finde, that we
+<pb n="25" facs="tcp:172821:19" rendition="simple:additions"/> are either wiſer then our fore-fathers, or worſe. And here <hi>I</hi> might mention the Reverend Names of <hi>Tertullian, Clem. Alexandrinus, Cyprian, Baſil</hi> the great, <hi>Nazianzen, Ambroſe, Jerom, Chryſoſtom</hi> and <hi>Epiphanius,</hi> who thunder terribly in their Wri<g ref="char:EOLhyphen"/>tings againſt this and the like effeminate uſages. <hi>Epiphanius</hi> reckons the <hi>Maſſaliani</hi> a<g ref="char:EOLhyphen"/>mongſt hereticks, becauſe they did <hi>ef<g ref="char:EOLhyphen"/>ferre</hi> 
+               <note place="margin">
+                  <hi>Lib.</hi> 3. <hi>Tom. Haer.</hi> 80.</note> 
+               <hi>meretricio more comam.</hi> Of our own I might produce as Witneſſes againſt our mo<g ref="char:EOLhyphen"/>dern vanity, three Reverend and pious Biſhops, Bp. <hi>Babington,</hi> Bp. <hi>Hall,</hi> Bp. <hi>Reynolds;</hi> Of our learned and godly Divines, <hi>Downam, Deut,</hi> Mr. <hi>Rob. Bolton, &amp;c.</hi> I hope I ſhall not offend, if I re<g ref="char:EOLhyphen"/>cite three paſſages out of them in ſtead of an hun<g ref="char:EOLhyphen"/>dred. <hi>Tertullian</hi> calleth Periwigs, <hi>Neſcio quas enormitates ſatilium, atque textili<g ref="char:EOLhyphen"/>um</hi> 
+               <note place="margin">Tert ull. de cultu Foem.</note> 
+               <hi>capillame itorum,</hi> ſaith he, If thou re<g ref="char:EOLhyphen"/>gardeſt not the ſin, yet let the ſhame and defilement of them deter thee. Do not put upon a holy and Chriſtian head the <hi>exuviae</hi> or caſtings off, it may chance of ſome vile ungodly per<g ref="char:EOLhyphen"/>ſon, it may be of a Malefactor that ended his days at a <hi>Gibbet,</hi> it may be of one that is damned in hell.</p>
+            <p>Famous Bp. <hi>Hall</hi> telleth us his mind in theſe words, <hi>We ſee in this Caſtle</hi> 
+               <note place="margin">Serm. at Greys-Inn</note> 
+               <hi>of the body, the Flag of Vanity hang out moſt conſpicuouſly, in Feathers, Perukes, Frizzles, Powders, and ſuch other traſh.</hi>
+            </p>
+            <p>Mr. <hi>Rob. Bolton</hi> is very zealous ac<g ref="char:EOLhyphen"/>cording <note place="margin">
+                  <hi>Gen. Di<g ref="char:EOLhyphen"/>rect. p.</hi> 200</note> to his manner; reckoning falſe
+<pb n="26" facs="tcp:172821:20" rendition="simple:additions"/> hair amongſt the works of darkneſs; calling it one of the hateful baits and enticements to luſt, which (without other monſtrous; <note place="margin">
+                  <hi>Ibid. p.</hi> 195, 196.</note> faſhions,) are not taken to heart in any proportion to their execrableneſs, a<g ref="char:EOLhyphen"/>gainſt which Pulpits are too ſilent, and the times di<g ref="char:EOLhyphen"/>geſt without any remorſe or reclamation.</p>
+            <p>Now when thoſe whom God hath made his Em<g ref="char:EOLhyphen"/>baſſadors and our Teachers, are unanimous in decry<g ref="char:EOLhyphen"/>ing a corruption of the times, it ſhould be an effectu<g ref="char:EOLhyphen"/>al means of our conviction, as it was to the unbelie<g ref="char:EOLhyphen"/>ver mentioned by <hi>Paul,</hi> 1 <hi>Cor.</hi> 14. 24. He is convin<g ref="char:EOLhyphen"/>eed of all, he is judged of all. When God ſpeak<g ref="char:EOLhyphen"/>eth to us by the mouth of his holy Prophets, as if they had all but one <note place="margin">
+                  <hi>Luke</hi> 1. 70. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> mouth, it behoveth as many as fear God to take more diligent heed there<g ref="char:EOLhyphen"/>unto; eſpecially ſince it is made a character of one that feareth the Lord, that he obeyeth the voice of his ſervant.</p>
+            <p>But if we will not be inſtructed by them which ſeek our good, it is adviſeable at leaſt to learn of <hi>our enemies.</hi> What <note place="margin">
+                  <hi>Fas eſt &amp; abhoſte do<g ref="char:EOLhyphen"/>ceri.</hi> Virg.</note> bitter invectives are the ſpeeches and Pamphlets of <hi>Quakers</hi> ſtuffed with againſt the pride and luxury of this generation: and how do they glory in their own af<g ref="char:EOLhyphen"/>fected and voluntary humility and abſtinence? Me<g ref="char:EOLhyphen"/>thinks this black ſoap of railing invectives, ſhould help to fetch out <hi>London-dirt.</hi> We live in ſuch a
+<pb n="27" facs="tcp:172821:20" rendition="simple:additions"/> juncture, that we ought rather to retrench our ſelves in lawful things, then by any undue exorbitant pra<g ref="char:EOLhyphen"/>ctice to harden thoſe miſerably deluded creatures to their deſtruction, juſtifie their often repeated Accu<g ref="char:EOLhyphen"/>ſations, or in the leaſt degree give them occaſion to think well of themſelves in forſaking our Commu<g ref="char:EOLhyphen"/>nion.</p>
+            <p>6. Let it be duely and ſadly conſidered in what time we live; Times in which the judgements of God have been, and are yet abroad; times of jea<g ref="char:EOLhyphen"/>louſies and fears, leſt ſome worſe thing may hap<g ref="char:EOLhyphen"/>pen unto us then we have yet felt: ſuch ſhould be times of putting off our Ornaments, <hi>Exod.</hi> 33. 5. <hi>The Lord ſaid unto</hi> Moſes, <hi>ſay unto the children of</hi> Iſrael, <hi>ye are a ſtiff-nacked people: I will come up into the midſt of thee and conſume thee, therefore now put off thy ornaments from thee, that I may know what to do unto thee.</hi> Thoſe vanities which at other times are but <hi>unjuſtifiable,</hi> at ſuch times are <hi>unpar<g ref="char:EOLhyphen"/>donable,</hi> Iſa. 22. 12, 13, 14. <hi>And in that day did the Lord of Hoſts call to weeping, and to mourning, and to baldneſs, and to girding with ſackcloth. And behold joy and gladneſs, ſlaying of oxen, and killing of ſheep, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>ing of wiggs. And it was re<g ref="char:EOLhyphen"/>vealed in mine eares by the Lord of Hoſtes; S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rely, this iniquity ſhall not be purged from you till ye die, ſaith the Lord God of Hoſts. Bald<g ref="char:EOLhyphen"/>neſs</hi> and <hi>ſackcloth</hi> you ſee would better become us, than ſuch buſhes of hair as are uſually worn.
+<pb n="28" facs="tcp:172821:21" rendition="simple:additions"/> Jer. 7. 29. <hi>Cut off thine hair, O</hi> Jeruſalem, <hi>and caſt it away, and take up a lamentation on high peaces, for the Lord hath rejected and forſaken the generation of his wrath</hi> When <hi>P. Scipio</hi> had taken <hi>Carchedona</hi> a City in <hi>Spain,</hi> he ab<g ref="char:EOLhyphen"/>ſteined <note place="margin">
+                  <hi>Polyb. Hiſt. l.</hi> 10</note> from his uſual delights, be<g ref="char:EOLhyphen"/>cauſe it was a time of war, and ſo it hath been with us. <hi>Ahab,</hi> and the King and people of <hi>Nineveh</hi> were but under a threatning, yet they ſhewed the ſenſe they had of their danger in laying aſide their coſtly and curious attire. And ſhall we which underſtand more practiſe leſs? Shall inſen<g ref="char:EOLhyphen"/>ſibility be added to our iniquities? War and the Peſtilence, and the like fore judgments, are called <hi>Tonſura humani generis.</hi> It <note place="margin">Tertul.</note> is unſeaſonable for men and women wantonly to ſhave themſelves, to make room for idle and unneceſſary Trappings when God hath been ſhaving our Nation with the ſharp Razor of his judgments, <hi>Iſa.</hi> 7. 20. Are we like to deprecate the wrath of God hanging over our Kingdom, when in our Religious Aſſemblies, and at our Faſts, we ap<g ref="char:EOLhyphen"/>pear before him rather like ſo many <hi>Princes,</hi> then humble <hi>Penitents,</hi> wearing <hi>ſilk</hi> in ſtead of <hi>ſack-cloth,</hi> and having <hi>Perfumed Powders</hi> on our heads in-ſtead of <hi>Aſhes?</hi>
+            </p>
+            <p>
+               <hi>T. Ann. Milo</hi> being queſtioned for his life for kil<g ref="char:EOLhyphen"/>ling <hi>Clodius,</hi> fared the worſe at the hands of the Judges, becauſe he came trimmed up, and ſplendidly apparelled, and not in the habit of a Mourner, as the manner of thoſe times was. It is written of the Eagle, that ſhe pruneth up her feathers againſt a ſtorm; and
+<pb n="29" facs="tcp:172821:21"/> 
+               <hi>Agag</hi> came delicately, when he was immediately to be hewed in pieces, 1 <hi>Sam.</hi> 15 32. There is a ge<g ref="char:EOLhyphen"/>neral fear that a ſtorm is coming, but it ſeems we in<g ref="char:EOLhyphen"/>tend to encounter it <hi>bravely</hi> and not to veil our Bon<g ref="char:EOLhyphen"/>nets. It is no good ſign, but ſo it is, we were never more delicate, fantaſtical and vain in our habits and attires than now, when God is hewing us in pieces with his judgments. When God was about to viſit <hi>Babylon,</hi> ſhe was commanded to lay aſide her ſtate<g ref="char:EOLhyphen"/>ly Head-tire, and ſo ſhould we if we did wiſely diſ<g ref="char:EOLhyphen"/>cern the ſignes of the times <hi>Iſa.</hi> 47. 1, 2. <hi>Come down and ſit in the dust, O Virgin-Daughter of</hi> Babylon.-Take <hi>the Milſtones and grind meal, uncover thy locks, &amp;c.</hi> The time may come, even that year of our Viſitation, when (according to the old Proverb) <hi>Heads may go to the Pot for the vanity of hair.</hi>
+            </p>
+            <p>And here I ſhould make an end, but that I think my ſelf obliged to ſpeak a few words of Advice to the other ſex, the Women of this Age, for whom I have ſo much charity as to believe, that all of them have not loſt their ears, as ſome of them have their heads.</p>
+            <p>I think it muſt be granted, that 'tis more natural and tolerable for women to adorn their bodies, and cultivate their beauty, than for men. Their freedom from great and pub<g ref="char:EOLhyphen"/>like <note place="margin">
+                  <hi>Valer. Max. l.</hi> 9. <hi>c.</hi> 1.</note> Affairs, gives them more leiſure, and I think that God himſelf hath ſo far indulged the weakneſs of their ſex. I would not be thought to ſpeak againſt their lawful Orna<g ref="char:EOLhyphen"/>ments, <hi>Ezek.</hi> 16. 11. 12, 13. The Graces of the
+<pb n="30" facs="tcp:172821:22" rendition="simple:additions"/> Church are ſet forth by them; <hi>Ezek.</hi> 16. 11, 12, 13. and <hi>Rebecca</hi> decked her ſelf with jewels of ſilver, and jewels of gold, in times of the greateſt plainneſs and ſimplicity, <hi>Gen.</hi> 24. 53. The reaſon of this allow<g ref="char:EOLhyphen"/>ance I think to be, that they may be more deſirable in their eyes, whoſe help and individual companions they are ordeined to be. But nevertheleſs, they muſt not divide their precious houres between the Comb and the Glaſs; nor give way to fooliſh, immodeſt, unlicenced faſhions. They <note place="margin">Seneca.</note> muſt ſo trim up their ſcabbards, their bo<g ref="char:EOLhyphen"/>dies, I mean, as not to neglect the hidden man of the heart. The Virgin or the Wife muſt not make them forget the Chriſtian. Nothing muſt com up<g ref="char:EOLhyphen"/>on their backs or heads, but what becometh godli<g ref="char:EOLhyphen"/>neſs, 1 <hi>Tim.</hi> 2. 10.</p>
+            <p>How far the Females of our times have departed from this Rule, may appear from ſome inſtances, Ci<g ref="char:EOLhyphen"/>tizens and others, as if their daughters were the daughters of <hi>Herodias,</hi> ſend them to learn immodeſt outlandiſh Dances and Friskings, wherein the whole body is abuſed to wantonneſs, to the manifeſt breach of the <hi>ſeventh Commandment,</hi> which layeth a reſtraint upon our very Geſtures. They eſteem it an Ac<g ref="char:EOLhyphen"/>compliſhment, and a piece of good breeding, not conſidering that ſome women may dance more elegantly then becom<g ref="char:EOLhyphen"/>eth <note place="margin">
+                  <hi>Saltan elegan<g ref="char:EOLhyphen"/>tius quam ne<g ref="char:EOLhyphen"/>ceſſe erat pro<g ref="char:EOLhyphen"/>bae</hi> Saluſt.</note> modeſt perſons, as was noted of <hi>Sempronia</hi> a <hi>Roman</hi> Lady. This very thing was obſerved to have corrupted the young women of
+<pb n="31" facs="tcp:172821:22"/> 
+               <hi>Rome,</hi> and to have diſpoſed them to leud practices.</p>
+            <q>
+               <l>Motus doceri gaudet Ionicos</l>
+               <l>Matura virgo, &amp; fingitur Artibus <note place="margin">
+                     <hi>Horat. Carm. l.</hi> 3 <hi>Ode</hi> 6.</note>
+               </l>
+               <l>Jam nunc, &amp; inceſtos amores</l>
+               <l>De tenero meditatur ungue.</l>
+            </q>
+            <p>Others plaiſter their faces <note n="*" place="margin">
+                  <hi>Oh</hi> Dinah! Dinah! <hi>by one days frolick amongſt the daughters of the Land thou wert utterly undon.</hi>
+               </note>, and graft on new eye-brows, audaciouſly chopping and changing the work<g ref="char:EOLhyphen"/>manſhip of their Maker, <hi>Pſ.</hi> 137. 14. that they are fearfully and wonder<g ref="char:EOLhyphen"/>fully made, their Bodies being a piece of <hi>divine Embroidery.</hi>
+            </p>
+            <p>There are that expoſe their <hi>naked breaſts,</hi> as if the Time of <hi>Innocency</hi> were again re<g ref="char:EOLhyphen"/>turned, when our firſt Parents were naked, and were not aſhamed, <hi>Gen.</hi> 2. 25 Such are commanded to put their adulteries from between their breaſts, <hi>Hoſ</hi> 2. 2. and indeed I read that <hi>Helena</hi>s <hi>Naked breaſts</hi> gave the firſt occaſion to her <hi>Adulte<g ref="char:EOLhyphen"/>ries.</hi> As for thoſe women which <note place="margin">
+                  <hi>Prodita ſunt memini, &amp;c.</hi> Ovid: ep:</note> have the confidence thus to expoſe themſelves in times and places of publick <hi>worſhip,</hi> I ſhall leave them to be ſchooled by the Prophet, <hi>Jer.</hi> 7. 11. <hi>Is this Houſe which is called by my Name, become a den of—in your eyes.</hi>
+            </p>
+            <p>Neither may it be omitted that divers of that ſex, who have <hi>ſpots</hi> enough in their conſciences, and too many in their lives, wear more in their faces. I ſhall inform them the beſt I can how they were brought up
+<pb n="32" facs="tcp:172821:23"/> A certain ſlave at <hi>Rome</hi> received from his Maſter ſeveral brands on his face, (you may imagine it was for his goodneſs if you <note place="margin">
+                  <hi>Mart. l.</hi> 2. <hi>ep.</hi> 25. <hi>Numeroſa li<g ref="char:EOLhyphen"/>nunt ſtellan<g ref="char:EOLhyphen"/>tem, &amp;c.</hi>
+               </note> pleaſe) Afterward being advanced to the degree of a Senator, he uſed black ſpots to conceal his ſcars. The <hi>Romane</hi> Ladies were lovers of Inge<g ref="char:EOLhyphen"/>nuity, and taken with new Fancies. This as far as <hi>I</hi> can learn was the Original of the <hi>Noble Order of black Patches.</hi>
+            </p>
+            <p>But the vanity of women doth in nothing diſplay it ſelf in ſo great a multiplicity of formes as in the wearing of hair. Many in deſpight of God and Nature, and the expreſs words of Scripture, will ſhave themſelves, 1 <hi>Cor.</hi> 11. 15. Of old a ſo<g ref="char:EOLhyphen"/>lemn curſe was denounced againſt ſuch, though they did it under a pretence of Religion, be<g ref="char:EOLhyphen"/>cauſe their hair was given them both as <note place="margin">Coel. Rhod.</note> an Ornament, and as a token of their ſubjection.</p>
+            <p>They whoſe buſineſs is in the Kitchin, and amongſt the Pots, muſt wear artificial curls, trundled up like ſo many ſnakes, which would put one in minde of the deſcription which the Poets give of the Furies of Hell.</p>
+            <p>It is alſo reported, that Goats hair which was once uſed about the Tabernacle, is made uſe of to adorn the Temples of ſome of the female ſex, were I one of their number I ſhould be afraid of this new inven<g ref="char:EOLhyphen"/>tion, leſt it ſhould prove an inauſpicious Preſage to what ſquadron I ſhould belong, when the Judge of
+<pb n="33" facs="tcp:172821:23" rendition="simple:additions"/> all the earth ſhall divide the ſheep from the Goats, <hi>Matth.</hi> 25. 33.</p>
+            <p>Beſides all this, Women have their <hi>Shades,</hi> their <hi>Towers,</hi> their <hi>Bulls</hi> and <hi>Bulls foreheads,</hi> ſtrange names and ſtranger things, fit only for the <hi>Kine of Baſhan, Amos</hi> 4. 1. perſons overgrown with an ex<g ref="char:EOLhyphen"/>ceſs of pride, pleaſure, eaſe and petulancy.</p>
+            <p>But becauſe I would charitably believe, that not a few are drawn into theſe Practices, rather out of ignorance then inſolency; and becauſe their igno<g ref="char:EOLhyphen"/>rance may be thought the more pardonable, in that it is hard for women to ſearch into theſe matters, moſt of the paſſages relating to them being in an un<g ref="char:EOLhyphen"/>known tongue; I ſhall lend them ſome help, with expectation of a Chriſtian, and favourable accept<g ref="char:EOLhyphen"/>ance, whilſt I ſhall faithfully relate what is written by others. And that I may not be farther trouble<g ref="char:EOLhyphen"/>ſom, I ſhall only propound to thoſe which are in this treſpaſs a few ſhort and inoſſenſive Queries</p>
+            <p>
+               <hi>Qu.</hi> 1 Would you willingly attire your Head after the ſame manner that <hi>Witches</hi> were wont to do when they went about their inchantments? I know you abhor the motion, why then lay aſide your Wigs and Bulls, for thus they harneſſed themſelves to ſerve the <hi>Devil.</hi> And one of them, <hi>Sagana</hi> by name, betaking her ſelf to her heels upon a ſudden fright, loſt the Jewel off her head.</p>
+            <q>
+               <l>
+                  <hi>Altum</hi> Saganae <hi>Caliendrum</hi>
+               </l>
+               <l>
+                  <hi>Ex cidere—</hi>
+                  <note place="margin">
+                     <hi>Hor. Serm. l</hi> 1. <hi>Sat.</hi> 8.</note>
+               </l>
+            </q>
+            <p>In <hi>Engliſh</hi> thus,</p>
+            <q>
+               <l>Encountring with a ſawcy puff of wind,</l>
+               <l>Th' Hag left her tow'ring Perewig behind.</l>
+            </q>
+            <pb n="34" facs="tcp:172821:24"/>
+            <p>Nay, <hi>Clem. Alexandrinus,</hi> and after him <hi>Polyd. Virgil</hi> and <hi>Raderus</hi> inform us, that theſe new and ſtrange inventions about womens hair were firſt found out by <hi>Medea,</hi> a notorious and wicked Sor<g ref="char:EOLhyphen"/>cereſs.</p>
+            <p>
+               <hi>Qu.</hi> 2. Would you, if you knew it beforehand, wear that which of old time to be the dreſs of <hi>har<g ref="char:EOLhyphen"/>lots? Prov.</hi> 7. 10. No, you would reject it with in<g ref="char:EOLhyphen"/>dignation: why then it will coſt you the parting with ſomwhat, but you may well ſpare it. For they were wont to trade much in Arti<g ref="char:EOLhyphen"/>ficial counterfeit locks, and they were <note place="margin">
+                  <hi>Ov. de arte Amand l.</hi> 3</note> wont to ſend as far as from <hi>Italy</hi> to <hi>Germany</hi> to furniſh themſelves. A grave Author ſaith, that ſuch wares were moſt in requeſt with the Curtizans at <hi>Rome, Crines aſcititii &amp; adulterini, qui</hi> 
+               <note place="margin">Dempſt. Ant. Rom.</note> 
+               <hi>Meretricibus in pretio—Meſſali<g ref="char:EOLhyphen"/>na</hi> that ſhameleſs woman, when ſhe went to the Stews to proſtitute <note place="margin">
+                  <hi>Juven. Sat.</hi> 6.</note> her ſelf, dreſſed up her ſelf in a <hi>Bull,</hi> and laid forth her naked breaſts;</p>
+            <q>Et nigrum flavo crinem abſcondente galero, &amp;c.</q>
+            <p>
+               <hi>Qu.</hi> 3. Would you bring your ſelves in the ſame <hi>Premunire</hi> with the <hi>haughty Daughters of</hi> Zion, which are ſo ſharply rebuked, and threatned with burning in ſtead of beauty, <hi>Iſa.</hi> 3. 17, 24. And to have the Crowns of their Heads ſmitten with loth<g ref="char:EOLhyphen"/>ſom ulcers? I know your anſwer. Why then be not too fond of your well-ſet hair, or affected curls, (as ſome render it) which was their ſin.
+<pb n="35" facs="tcp:172821:24"/> Nay, it is ſaid, that after our manner they decked themſelves with the hair <note place="margin">
+                  <hi>Sanct. in Iſa.</hi> 3.</note> of others, and that this cuſtom a<g ref="char:EOLhyphen"/>mongſt them was as old as <hi>Abſalom.</hi> For we read, that when he polled his head, 2 <hi>Sam.</hi> 14. 26. he weighed the hair of his head at two hundred ſhekels. Now, ſay they, it is prodigious and ridiculous to think, that the pollings of one mans head, at every years end ſhould <note place="margin">
+                  <hi>Sanct. in</hi> 2 <hi>Sa.</hi> 14.</note> weigh as much as the fleeces of two ſheep. Wherefore they conclude that theſe words muſt ſignifie the weight or price, at which the Reverſion of <hi>Abſaloms</hi> head was ſold <hi>Puellis ſolymitanis,</hi> to the women of <hi>Jeruſalem,</hi> to make them Artificial Treſſes, or <hi>Towers of hair.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> 4. Would you have a hand in pulling down the <hi>Judgments</hi> of God upon the Kingdom? I know your tender hearts cannot endure to think of it. Be<g ref="char:EOLhyphen"/>ware then for which they are inflicted; when the Lord went about to viſit <hi>Jeruſalem</hi> with ſore judge<g ref="char:EOLhyphen"/>ments, the women are called upon as more immedi<g ref="char:EOLhyphen"/>ately concerned in the ſin which brought them, and the bitterneſs of them, <hi>Iſ.</hi> 32. 9. <hi>Riſe up ye women that are at eaſe, hear my voice, ye careleſs daughters, give ear unto my speech.</hi> Again <hi>v.</hi> 10. <hi>Many days and years ſhall ye be troubled, ye careleſs women, for the Vintages ſhall fail, the gathering ſhall not com once more,</hi> v. 11. <hi>Tremble ye women that are at eaſe: be troubled, ye careleſs ones, ſtrip ye, and make ye bare, and gird ſackcloth vpon your loins.</hi>
+               <pb n="36" facs="tcp:172821:25"/> Though women are the weaker veſſels, yet they are ſtrong enough to pull down the judgements of God upon a Nation. The pride and wantonneſs of the daughters of <hi>Jeruſalem,</hi> was a principal cauſe of <hi>Ju<g ref="char:EOLhyphen"/>dah</hi>s ruine, and in ſpecial their affected faſhions in their hair, <hi>Iſa.</hi> 3. 24. <hi>Iſa.</hi> 4 4 <hi>When the Lord ſhall have waſhed away the filth from the Daughters of</hi> Zion, <hi>and ſhall have purged the blood of</hi> Jeruſalem <hi>from the midſt thereof, by the ſpirit of judgement and by the ſpirit of burning.</hi> From which words we may animadvert, That what ſome women account their <hi>Finery,</hi> God calleth their <hi>Filth.</hi> That the Pride of women is ranked with murther, one of the moſt unnatural and crying ſins; it ſtands in the ſame Catalogue with the blood of <hi>Jeruſalem.</hi> That it is a filth to be purged away by judgments and fire. It deſerves to be conſidered, whether the flames which laid <hi>London</hi> in aſhes were not kindled from theſe ſparks.</p>
+            <p>Shall <hi>England,</hi> our native Countrey, be choaked with hair (as one of the Popes is ſaid to be) the ig<g ref="char:EOLhyphen"/>nominy of the deſtruction being added to the ſad<g ref="char:EOLhyphen"/>neſs and miſery of it.</p>
+            <p>
+               <hi>Qu.</hi> 5. Have you a minde to <hi>draw forth</hi> the im<g ref="char:EOLhyphen"/>pure <hi>luſtful inclinations</hi> of others, and ſo bear a ſhare with them in their ſin and puniſhments? Shall <hi>Adam</hi> in his Poſterity complain the ſecond time, <hi>Gen.</hi> 3. 12. <hi>The woman which thou gaveſt me, &amp;c?</hi> If you ſay, No. Then forbear to ſpread Nets and ſnares for their eyes, as if you would invite them to luſt after you. It is certain, that Hair artificially
+<pb n="37" facs="tcp:172821:25" rendition="simple:additions"/> and vainly ſet out, is unto vain mindes a very tempt<g ref="char:EOLhyphen"/>ing object.</p>
+            <q>
+               <hi>Spectat inornatos collo pendere capillos</hi> 
+               <note place="margin">
+                  <hi>Ov. Met. l.</hi> 1.</note> 
+               <hi>Ecquid ſi comante ait?—</hi>
+            </q>
+            <p>
+               <hi>Qu.</hi> 6. Would you be found in ſuch a fantaſtical Attire at the time of your <hi>Death,</hi> or at the ſecond <hi>Appearance</hi> of Jeſus Chriſt: No, then you will all be more humble and ſerious. And why not ſooner? for what you have done ſhall be then remembred and accounted for. <hi>Tertullian</hi> wiſhed that at the General Reſurrection he <note place="margin">Tertul. de cultu Foem.</note> might but ſtand behind thoſe Women and Virgins, that went in ſtrange heads and ſtrange faces, to ſee if the Angels would take them up, and carry them to meet the Lord in the Air.</p>
+            <p>
+               <hi>Qu.</hi> 7. Would you follow the Trade of them that are moſt addicted to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe diſguiſing faſhions? Are you willing to caſt in your lot amongſt them? I dare becom ſurety for many of you that you would not. Why then eat not of their broth, leſt in time to come you eat of their Beef.</p>
+            <p>To conclude, let men abſtein from unmanly diſ<g ref="char:EOLhyphen"/>guiſes and faſhions. Let them ſhew themſelves ſuch by ſomewhat elſe, beſides the wearing of the breech<g ref="char:EOLhyphen"/>es, that is may not be ſaid of Men of this Age, That they are but women in mens Apparel. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Hom, Odyſ.</hi>
+            </p>
+            <p>It ſhould be remembred, that we reade but of one man in Scripture, that made an idol of his hair, and it proved the inſtrument of his death. <hi>Oh</hi> Abſa<g ref="char:EOLhyphen"/>lom!
+<pb n="38" facs="tcp:172821:26" rendition="simple:additions"/> Abſalom! what hath thy pride profited thee, and thy goodly locks, whereby thy life was inſna<g ref="char:EOLhyphen"/>red, like the hunted Stag, which hath ſomtimes bin intangled by reaſon of his ſtately-branched ſtems? It was ſaid of old, <hi>That the Woman was firſt in the tranſgreſſion;</hi> let us not now change places with them If you would have your heads comely and full of grace, in ſtead of the Barbers or Tire-wo<g ref="char:EOLhyphen"/>mans ſhop, go to Wiſdoms Warehouſe, and there you ſhall be better furniſhed, and better cheap, <hi>Prov.</hi> 4. 9. <hi>She ſhall gave to thine head an ornament of grace, a crown of glory ſhall ſhe deliver to thee.</hi>
+            </p>
+            <p>And you, O Women and Virgins, remember that you have lamps to trim as well as carcaſſes, if you be wiſe indeed. You are of near alliance to corru<g ref="char:EOLhyphen"/>ption and the wormes; and when once you come a<g ref="char:EOLhyphen"/>mongſt your poor Kindred, there will be none of theſe things. Follow the living Patterns of divers of your own ſex, and thoſe perſons of plentiful e<g ref="char:EOLhyphen"/>ſtates, and good quality, who have not touched theſe (very doubtful and ſuſpicious, if not unclean) things; which thing with the reſt of their virtuous works, ſhall praiſe them in the gates, <hi>Prov.</hi> 31. 31. Be not too curious in adorning thoſe heads of yours, which muſt ſhortly be laid in the duſt, nor thoſe faces which ere long will be bound about with a Napkin. <hi>John</hi> 11. 44. <hi>Jezabel</hi> almoſt in the ſame houre tired her head in the greateſt bravery, and was eaten of dogs, 2 <hi>Kings</hi> 9. 30. She came from looking in the Claſs, to the looking out of that window from which ſhe was caſt headlong. If you will play the wiſe
+<pb n="39" facs="tcp:172821:26"/> women, divert your care to more neceſſary and bet<g ref="char:EOLhyphen"/>ter things. In ſtead of your broidered curled hair put on ſhamefaſtneſs and ſobriety, 1 <hi>Tim.</hi> 2. 9. This is an Apoſtolical Dreſs, Head-tire for women that is <hi>Jure Divino,</hi> Eſpouſe your ſelves as chaſte Vir<g ref="char:EOLhyphen"/>gins to Jeſus Chriſt, devote your ſelves entirely to your Princely husband, <hi>Pſal.</hi> 45. 11. <hi>So ſhall the King greatly deſire your beauty, and you ſhall have God himſelf to be your lover.</hi>
+            </p>
+         </div>
+         <div type="song">
+            <head>At the Cloſe <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>OR;</hi> A Song of Converſion by Perſons having ſeri<g ref="char:EOLhyphen"/>ouſly Peruſed this Treatiſe.</head>
+            <l>FAlſe Hair, the Flag of Pride, take down,</l>
+            <l>That Witches, Whores and Drunkards crown:</l>
+            <pb n="40" facs="tcp:172821:27"/>
+            <l>We who the ſheep of Chriſt profeſs,</l>
+            <l>Shall Goatiſh looks defile our dreſs?</l>
+            <l>Shall we tempt others unto luſt,</l>
+            <l>That ſhortly muſt lie down in duſt?</l>
+            <l>What thus our time and coyn expend;</l>
+            <l>Whoſe precious ſouls ſhall have no end?</l>
+            <l>Lets trim our Lamps by Scripture-Glaſs,</l>
+            <l>That to Eternity muſt paſs:</l>
+            <l>What we proud Ruffian-duels arm,</l>
+            <l>By wanton looks, and luſtful charm?</l>
+            <l>Shall we to envie ſtir thoſe breaſts,</l>
+            <l>That ſcarce a groat have in their cheſts?</l>
+            <l>Shall we offend thoſe pious hearts,</l>
+            <l>And wound them with our poiſoned darts?</l>
+            <l>That ſpend their time in ſighs and groans,</l>
+            <l>To weep on us with holy moans?</l>
+            <l>What we inchanted by their ſpell,</l>
+            <l>And merrily dance into hell</l>
+            <l>With ſuch as glory in exceſs,</l>
+            <l>And hate the ways to bleſſedneſs.</l>
+            <l>Shall we for odious trifles fight?</l>
+            <l>For excrements loſe Heavens light?</l>
+            <l>Lets with good <hi>Magdalen</hi> amend,</l>
+            <l>And on his feet our tears ſpend;</l>
+            <l>And wipe them clean with our chaſt hair,</l>
+            <l>His precious blood who did not ſpare.</l>
+            <q>
+               <bibl>
+                  <hi>LUKE</hi> 16. 15.</bibl>That which is highly eſteemed amongſt men, is abo<g ref="char:EOLhyphen"/>mination in the ſight of God.</q>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Gr. Naz</q>
+            <pb facs="tcp:172821:27"/>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
